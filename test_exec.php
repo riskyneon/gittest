@@ -6,12 +6,5 @@ echo date("d");
 echo dirname(__FILE__);
 echo date("Y");
 echo date("d");
-echo dirname(__FILE__);
-echo date("Y");
-echo date("d");
-echo dirname(__FILE__);
-echo date("Y");
-echo date("d");
-echo dirname(__FILE__);
 
  ?>
