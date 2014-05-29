@@ -5,6 +5,8 @@ $db_username="root";
 $db_password="";
 $db_databasename="test";
 
+echo "hello";
+
 
 $con=mysql_connect($db_hostname,$db_username,$db_password);
 if(!$con)
